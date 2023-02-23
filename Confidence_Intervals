@@ -1,5 +1,8 @@
 Program description: This is a MATLAB program that incorporates both sequential and conditional structures, which utilizes user inputs to reinforce certain concepts in statistics. In statistics, a confidence interval refers to the likelihood that a population parameter will fall within a set of values for a certain proportion of occurrences. A two-sided confidence interval (CI) is denoted as 𝑪𝑰=[𝑿𝑳,𝑿𝑹], where 𝑿𝑳 =𝒙̅−𝑬 and 𝑿𝑹 =𝒙̅+𝑬. The value E represents the standard error, which can be calculated through a flow chart that combines both sequential and conditional structures (refer to the following page) for a two-tailed interval. In the flow chart, α signifies the significance level, 𝑧𝛼/2 represents the corresponding Z-value for α, and 𝒕(𝜶),𝒏−𝟏 represents the t-value for the corresponding value of α. These values for 𝑧𝛼/2 and 𝒕(𝜶),𝒏−𝟏 can be acquired through computational tools such as Excel or from the Z-table and T-table, respectively.
 
+additional files used:
+CI_matlab.png
+flow_matlab.png
 
 CODE BEGINS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
